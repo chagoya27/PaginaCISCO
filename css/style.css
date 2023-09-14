@@ -1036,9 +1036,9 @@ border-right-color: rgba(0,0,0,0.1);
 	float: none;
 	max-width: none;
 	background:#fff;
-	border-top: 2px solid #17a9cd;
-	border-bottom: 2px solid #17a9cd;
-}
+	border-top: 2px solid #cd171e;
+	border-bottom: 2px solid #cd171e;
+
 
 #primary-menu.style-2 > div > ul { float: left; }
 
@@ -2303,7 +2303,7 @@ body.side-push-panel.side-panel-open:not(.device-xxs):not(.device-xs):not(.devic
 	line-height: 1;
 	font-weight: 600;
 	letter-spacing: 1px;
-	color: #17a9cd;
+	color: #cd171e;
 	font-size: 24px;
 	text-transform: none;
 }
@@ -7594,13 +7594,13 @@ body:not(.device-touch) .clients-grid li a {
 }
 
 .team-title a:hover{
-	color:#17a9cd;
+	color:#cd171e;
 }
 
 
 .team-title span {
 	display: block;
-	color: #17a9cd !important;
+	color: #cd171e !important;
 	font-weight: 400;
 	font-family: 'Crete Round', serif;
 	font-style: italic;
